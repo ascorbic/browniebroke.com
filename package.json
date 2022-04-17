@@ -65,7 +65,7 @@
     "prettier": "2.6.1"
   },
   "resolutions": {
-    "gatsby-worker": "npm:@ascorbic/gatsby-worker@1.12.5"
+    "gatsby-worker": "npm:@ascorbic/gatsby-worker@1.12.6"
   },
   "scripts": {
     "build": "gatsby build && node ./csp-util.js",
