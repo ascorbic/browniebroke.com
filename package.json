@@ -64,6 +64,9 @@
     "eslint-plugin-react": "7.29.4",
     "prettier": "2.6.1"
   },
+  "resolutions": {
+    "gatsby-worker": "npm:@ascorbic/gatsby-worker@1.12.1"
+  },
   "scripts": {
     "build": "gatsby build && node ./csp-util.js",
     "develop": "gatsby develop",
