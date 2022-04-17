@@ -6221,10 +6221,10 @@ gatsby-plugin-robots-txt@1.7.0:
     "@babel/runtime" "^7.16.7"
     generate-robotstxt "^8.0.3"
 
-"gatsby-plugin-sharp@npm:@ascorbic/gatsby-plugin-sharp@^4.12.0-next.2":
-  version "4.12.0-next.2"
-  resolved "https://registry.yarnpkg.com/@ascorbic/gatsby-plugin-sharp/-/gatsby-plugin-sharp-4.12.0-next.2.tgz#9070498d03518b54e0f2698bdd6ac49cb277c69d"
-  integrity sha512-tt0RxS6VOsc58FwItYDjbzbuARBznld67Q/kr/17msu8JBHXA5oC/FKzQUpPP6+yUmsgeUGtFae/bSMrsNkkMA==
+gatsby-plugin-sharp@4.10.2:
+  version "4.10.2"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-4.10.2.tgz#253a49c452a7409ceece4e541e4770e61a306bcc"
+  integrity sha512-MWzPTYnu7HZ0kctHtkLbZOe6ZGUqSsNATO3lWlSBIFpeimxaPF5iHBiu1CX/ofz4pwt7VamtIzAV28VB6sjONw==
   dependencies:
     "@babel/runtime" "^7.15.4"
     async "^3.2.3"
@@ -6232,9 +6232,9 @@ gatsby-plugin-robots-txt@1.7.0:
     debug "^4.3.3"
     filenamify "^4.3.0"
     fs-extra "^10.0.0"
-    gatsby-core-utils "^3.12.0-next.0"
-    gatsby-plugin-utils "^3.6.0-next.0"
-    gatsby-telemetry "^3.12.0-next.0"
+    gatsby-core-utils "^3.10.1"
+    gatsby-plugin-utils "^3.4.2"
+    gatsby-telemetry "^3.10.1"
     got "^11.8.3"
     lodash "^4.17.21"
     mini-svg-data-uri "^1.4.3"
@@ -6384,7 +6384,7 @@ gatsby-source-filesystem@4.10.1:
     valid-url "^1.0.9"
     xstate "^4.26.1"
 
-gatsby-telemetry@^3.12.0-next.0, gatsby-telemetry@^3.12.1:
+gatsby-telemetry@^3.10.1, gatsby-telemetry@^3.12.0-next.0, gatsby-telemetry@^3.12.1:
   version "3.12.1"
   resolved "https://registry.yarnpkg.com/gatsby-telemetry/-/gatsby-telemetry-3.12.1.tgz#a3508a45d95f2c3457db7dbe2628560d00c43beb"
   integrity sha512-sAL2T9GdYpceGlFP6CymVDoy0UEhRvrJApv/mu7sU6F0gu8g8rOLvRxVYE3Y2D9RdfCzkuLIonzmscmVIduyOg==
@@ -6445,7 +6445,7 @@ gatsby-transformer-sharp@4.10.0:
     semver "^7.3.5"
     sharp "^0.30.1"
 
-"gatsby-worker@npm:@ascorbic/gatsby-worker@1.12.1", "gatsby-worker@npm:@ascorbic/gatsby-worker@^1.12.1":
+"gatsby-worker@npm:@ascorbic/gatsby-worker@1.12.1", "gatsby-worker@npm:@ascorbic/gatsby-worker@^1.12.3":
   version "1.12.1"
   resolved "https://registry.yarnpkg.com/@ascorbic/gatsby-worker/-/gatsby-worker-1.12.1.tgz#31f74d727f9e73df09d8a73318a2e98bccd94b4f"
   integrity sha512-IECmi95VeWY00bWyck/tzRMsssfWHimbEDPqKRJUx9/u6ujeyiT7KxYWzwnEwfphjJchzJgQdarnpldwncHtlQ==
@@ -6453,10 +6453,10 @@ gatsby-transformer-sharp@4.10.0:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-"gatsby@npm:@ascorbic/gatsby@4.12.4":
-  version "4.12.4"
-  resolved "https://registry.yarnpkg.com/@ascorbic/gatsby/-/gatsby-4.12.4.tgz#4bc2fd0c214b2a70b301881dbaa47a0352219636"
-  integrity sha512-2KQu7f3IOnaLCxDRtGGJhUs8tndUbIBm/JvlHeNowQlziZh9eDe6Xa2KAjTtWjD2bHOd4tGNkOR/yCe9TFMLBg==
+"gatsby@npm:@ascorbic/gatsby":
+  version "4.12.5"
+  resolved "https://registry.yarnpkg.com/@ascorbic/gatsby/-/gatsby-4.12.5.tgz#1a3946c154bf18982a5f054dba625adb58df2bb9"
+  integrity sha512-xTDOvqduGNZzLY+wyq+9GatLqHYMcC5igH8d7vFg6f05mraKq4fkcXPmwUW+WtF8UsDMvyiUyvAKPi0DvkTlvA==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
@@ -6538,7 +6538,7 @@ gatsby-transformer-sharp@4.10.0:
     gatsby-plugin-utils "^3.6.0-next.0"
     gatsby-react-router-scroll "^5.12.0-next.0"
     gatsby-telemetry "^3.12.0-next.0"
-    gatsby-worker "npm:@ascorbic/gatsby-worker@^1.12.1"
+    gatsby-worker "npm:@ascorbic/gatsby-worker@^1.12.3"
     glob "^7.2.0"
     globby "^11.1.0"
     got "^11.8.2"
