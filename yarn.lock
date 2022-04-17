@@ -6453,10 +6453,10 @@ gatsby-transformer-sharp@4.10.0:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-"gatsby@npm:@ascorbic/gatsby":
-  version "4.12.5"
-  resolved "https://registry.yarnpkg.com/@ascorbic/gatsby/-/gatsby-4.12.5.tgz#1a3946c154bf18982a5f054dba625adb58df2bb9"
-  integrity sha512-xTDOvqduGNZzLY+wyq+9GatLqHYMcC5igH8d7vFg6f05mraKq4fkcXPmwUW+WtF8UsDMvyiUyvAKPi0DvkTlvA==
+"gatsby@npm:@ascorbic/gatsby@latest":
+  version "4.12.6"
+  resolved "https://registry.yarnpkg.com/@ascorbic/gatsby/-/gatsby-4.12.6.tgz#de76e3f7ebdb41ed127aab691ece8fe77c13a6ff"
+  integrity sha512-fNZ6AfWrxv5zJ0YYUUpu6h1k0fjr8weR12QYnIp1tLKu/mZ65n+v+4bEeI9evu+k82Lw8qqu5wXEYF2H7bmurQ==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
