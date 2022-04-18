@@ -6453,18 +6453,18 @@ gatsby-transformer-sharp@next:
     semver "^7.3.5"
     sharp "^0.30.3"
 
-gatsby-worker@^1.13.0-next.0, "gatsby-worker@npm:@ascorbic/gatsby-worker@1.13.5":
-  version "1.13.5"
-  resolved "https://registry.yarnpkg.com/@ascorbic/gatsby-worker/-/gatsby-worker-1.13.5.tgz#32e44932183a145cd404371a5730c189c196a7c5"
-  integrity sha512-Q5DXa78V2aMV8TUT2GCPCEWVuj6cz6W/9K+eJBVdsfAoKFN8X1SSEfS7p9X+gczPSVIKJULQjN8NSJCyXklsTw==
+gatsby-worker@^1.13.0-next.0, "gatsby-worker@npm:@ascorbic/gatsby-worker@1.13.6":
+  version "1.13.6"
+  resolved "https://registry.yarnpkg.com/@ascorbic/gatsby-worker/-/gatsby-worker-1.13.6.tgz#41cceff5ea9120cbca4956cada9adccb98f589ae"
+  integrity sha512-VBgRA96EBHlg/hX7Dq4f12IW8FRYKqGcZ2KRkZf55Vj6034hOID+CKdJHhxCMMWhC1CMt1y5ADvoROFQubn24A==
   dependencies:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-"gatsby@npm:@ascorbic/gatsby@4.13.0-next.1":
+gatsby@next:
   version "4.13.0-next.1"
-  resolved "https://registry.yarnpkg.com/@ascorbic/gatsby/-/gatsby-4.13.0-next.1.tgz#b147a903624503d10ec69614abe421dfe9412fb2"
-  integrity sha512-95jxVeuDVkcLhC2PCM8rNES/7g0kOLKEN/W+UUP+jOoYcHAlbujRUQQnwU8pXjPrx+mW+3Lxegt4fOxuFYs4mA==
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.13.0-next.1.tgz#e9bf4a141d85d2627dd442aa6e4874051f0be667"
+  integrity sha512-owNI4biCjC/m+4w1dLUWthgwf+Yur+NuibUPYNLBnGQtQ3PczBZihnhYslJfTwoQd8d+EadSkK4aPP+sffwiwg==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
