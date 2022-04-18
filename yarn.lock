@@ -6453,10 +6453,10 @@ gatsby-transformer-sharp@next:
     semver "^7.3.5"
     sharp "^0.30.3"
 
-gatsby-worker@^1.13.0-next.0, "gatsby-worker@npm:@ascorbic/gatsby-worker@1.13.0":
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/@ascorbic/gatsby-worker/-/gatsby-worker-1.13.0.tgz#7e582d29fdacc077e228c2d60d2c7fd3a4a2e901"
-  integrity sha512-mSy9MNhbPMq3YcPvisXwAvx9iXmUuLY4+ltdCjiHmA2Z+Xwp1AtTzraddqrQj65FWkBngmB+mB0Yv4SsYNs4Aw==
+gatsby-worker@^1.13.0-next.0, "gatsby-worker@npm:@ascorbic/gatsby-worker@1.13.1":
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/@ascorbic/gatsby-worker/-/gatsby-worker-1.13.1.tgz#e9822a3e859ca8d6982ea764272dde75a5352378"
+  integrity sha512-BJ4IM4cq7wNVbO7ogjM4AGi9ypeZU9i/BxnYwYJ0AGRTb9piZ7EIFi7+6lcSR5A2Y2k8g2LpyCVACtqDEkFulg==
   dependencies:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
