@@ -10,6 +10,9 @@
     "node": "16.x",
     "npm": "8.x"
   },
+  "resolutions": {
+    "gatsby-worker": "npm:@ascorbic/gatsby-worker@1.13.0-next.0"
+  },
   "dependencies": {
     "@browniebroke/react-ui-components": "1.8.2",
     "@fontsource/cabin-condensed": "4.5.5",
