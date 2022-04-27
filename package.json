@@ -11,7 +11,7 @@
     "npm": "8.x"
   },
   "resolutions": {
-    "gatsby-worker": "npm:@ascorbic/gatsby-worker@1.14.11"
+    "gatsby-worker": "npm:@ascorbic/gatsby-worker@1.14.12"
   },
   "dependencies": {
     "@browniebroke/react-ui-components": "1.8.2",
